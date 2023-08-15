@@ -1,0 +1,68 @@
+
+.Head{
+  background-color:darkcyan;
+  margin:10px;
+  text-align: center;
+  padding-bottom: 30px;
+  border-radius: 20px;
+}
+h1{
+  padding-top: 50px;
+  color: white;
+}
+.Info{
+  border-radius: 20px;
+  background-color: crimson;
+  padding:40px;
+  margin:50px;
+  color: white;
+  text-align: center;
+  text-decoration-style: solid;
+}
+
+ 
+.select{
+  border-radius: 20px;
+  background-color: wheat;
+  color:black;
+  text-align: center;
+  margin:10px;
+  padding: 30px;
+}
+
+.file{
+  background-color: green;
+  color: white;
+  border-radius: 40px;
+  padding:10px;
+  box-shadow: none;
+  border:none;
+}
+
+.msg{
+  border-radius: 30px;
+  padding:20px;
+  margin:20px;
+  text-align: center;
+}
+.text{
+  margin:20px;
+  width:70%;
+  padding:20px;
+  border: 2px solid blue;
+  border-radius: 20px;
+}
+
+button{
+  padding:20px;
+  margin:20px;
+  display: inline-block;
+  text-align: center;
+  width: 60%;
+  background-color: crimson;
+  color: white;
+  border:none;
+  border-radius: 20px;
+  padding:10px;
+  box-shadow: none; 
+}
